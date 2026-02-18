@@ -19,9 +19,5 @@ The program:
 
 ---
 
-## 🛠 Technologies Used
-
-- Python 3
-
 ---
 
