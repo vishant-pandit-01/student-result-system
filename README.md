@@ -16,8 +16,3 @@ The program:
 - Uses Functions inside class
 - Calculates average automatically
 - Beginner-friendly OOP project
-
----
-
----
-
